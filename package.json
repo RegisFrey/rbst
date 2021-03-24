@@ -1,12 +1,13 @@
 {
   "name": "regis-basic-style-tokens",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Design Tokens and minimal tooling",
   "main": "index.js",
   "author": "Regis Frey",
   "license": "MIT",
   "dependencies": {
     "ts-node": "^9.0.0",
-    "typescript": "^4.0.5"
+    "typescript": "^4.0.5",
+    "voca": "^1.4.0"
   }
 }

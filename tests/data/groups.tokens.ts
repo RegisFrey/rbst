@@ -1,5 +1,5 @@
-import { resolveTokens } from "../src/resolveTokens";
-import { TokenGroup } from "../src/Tokens";
+import { resolveTokens } from "../../src/resolve-tokens";
+import { TokenGroup } from "../../src/Tokens";
 
 export const colorTokens: TokenGroup = {
     tokens: {
@@ -12,8 +12,8 @@ export const colorTokens: TokenGroup = {
 
 export const spacingTokens: TokenGroup = {
     tokens: {
-        blue: '#B22222',
-        green: '#32CD32',
+        small: '15px',
+        large: '30px',
     },
     prefix: 'space',
     category: 'spacing'

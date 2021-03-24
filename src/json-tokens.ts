@@ -1,6 +1,6 @@
 // handle the loading of json tokens
 
-import { ResolvedTokenGroup } from "./types/Tokens";
+import { ResolvedTokenGroup } from "./types/tokens";
 
 // why json / yaml
 // A: focus, simplicity, easy to read and edit

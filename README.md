@@ -4,7 +4,8 @@
 
 In an [atomic approach to design][1] `Design Tokens`
 or `Style Tokens` describe building blocks like
-colors, font sizes, spacing, and more. (See ["What are Design Tokens?"][2])
+colors, font sizes, spacing, and more.
+(See ["What are Design Tokens?"][2])
 
 I used to use [Theo][3] but it got a bit cluky and lacks some features I wanted:
 - defining colors more flexibly
